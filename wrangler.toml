@@ -1,0 +1,8 @@
+# Nama Worker Anda (bisa diganti)
+name = "nununun"
+
+# File utama skrip Anda. Ganti "index.js" jika nama file Anda berbeda.
+main = "index.js"
+
+# Tanggal kompatibilitas (gunakan tanggal hari ini)
+compatibility_date = "2025-09-10"
