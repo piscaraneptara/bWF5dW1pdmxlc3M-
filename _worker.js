@@ -521,7 +521,7 @@ export default {
 		}
 
 		const url = new URL(req.url);
-		url.hostname = 'example.com';
+		url.hostname = 'ruriaylina.github.io';
 		return fetch(new Request(url, req));
 	}
 };
