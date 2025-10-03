@@ -1,5 +1,5 @@
 # Nama Worker Anda (bisa diganti)
-name = "nununun"
+name = "viora"
 
 # File utama skrip Anda. Ganti "index.js" jika nama file Anda berbeda.
 main = "_worker.js"
